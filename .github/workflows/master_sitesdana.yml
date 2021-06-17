@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'sitesdana'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_3fa1514eae104d828e746a8a92344bf6 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_18f8a69cfb6f47328acddacd89c090c4 }}
